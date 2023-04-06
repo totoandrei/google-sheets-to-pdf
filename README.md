@@ -25,7 +25,7 @@
 <h4>7. Modify 'config' as in image:</h4>
 	<img width="401" alt="image" src="https://user-images.githubusercontent.com/96824916/230383466-f36202ee-b170-4cac-8085-f3879e8000e4.png">
 
-<h4>8. Under 'Range to export' you need to write the range you want to export as pdf, from Sheet1. Then, under second column you need to wirte the name of the PDF that will be saved. </h4>
+<h4>8. Under 'Range to export' you need to write the range you want to export as pdf, from Sheet1. Then, under the second column, you need to write the name of the PDF that will be saved. </h4>
 	e.g.: in Sheet1 you have a table in range A2:C4. If so, you will write 'a2:c4' under 'Range to export' (in A2) and set a title next to this cell (in B2). Now your config sheet should look like this:
 
    <img width="401" alt="image" src="https://user-images.githubusercontent.com/96824916/230384342-e5f3d7a5-e108-4f3c-a169-3a29be9300e8.png">
